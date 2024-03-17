@@ -1,8 +1,4 @@
-# React + Vite
+React Portfolio: UI design portfolio with Scroll animations.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![sreenshot](https://github.com/ujjaval-parmar/react-portfolio/assets/154329143/1547fe1d-d636-4d7a-953d-e428f772aeb5)
