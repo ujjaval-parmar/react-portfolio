@@ -726,7 +726,7 @@ section {
 /* Contact Starts */
 
 .contact {
-  min-height: auto;
+  min-height: calc(100vh - 30vh);
   margin-top: 5rem;
   padding-bottom: 7rem;
 
