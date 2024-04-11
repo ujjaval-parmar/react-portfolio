@@ -891,6 +891,23 @@ input[type=number]::-webkit-outer-spin-button {
   }
 }
 
+
+@media screen and (max-width: 1083px) {
+
+  .home-imgHover {
+    pointer-events: none;
+    background: var(--bg-color);
+    opacity: 0.6;
+    width: 100%;
+  }
+
+  .home{
+    background: var(--bg-color);
+    margin-inline: auto;
+  }
+
+}
+
 @media screen and (max-width: 991px) {
   .header {
     padding: 2rem 4%;
